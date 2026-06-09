@@ -3,7 +3,6 @@
 ## Project Overview
 **Difficulty:** Intermediate  
 **Time:** 16-20 hours over 2 weeks (2-3 hours/day)  
-**Build During:** Weeks 5-6, after Security+ exam  
 
 Build a functioning Security Information and Event Management (SIEM) system. Collect logs from multiple sources, create detection rules, simulate attacks, and investigate alerts like a real SOC analyst.
 
