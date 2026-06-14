@@ -16,4 +16,4 @@ project: 3 of 4
 
 # Phase 1 - Deploy SIEM Platform
 
-
+After comparing both options, I decided to use Wazuh for this project because it is free, open source, and provides the security monitoring capabilities needed for a home SIEM lab without the licensing costs associated with Splunk.
