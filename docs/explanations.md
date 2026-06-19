@@ -30,3 +30,27 @@ For example, if a user repeatedly fails to log in to a system, Splunk can help i
 - Resource intensive
 - Can be difficult for beginners to configure
 - Many advanced features require paid licences
+
+# Wazuh
+
+Wazuh is an open-source security monitoring platform designed to detect threats, monitor systems, and analyse security events. It collects logs and security data from endpoints such as Windows, Linux, and macOS devices using agents installed on those systems.
+
+Unlike Splunk, which primarily focuses on collecting and searching data, Wazuh includes built-in security detection rules that automatically analyse events and generate alerts when suspicious activity is detected.
+
+For example, Wazuh can detect failed login attempts, unusual PowerShell activity, file modifications, malware indicators, and system vulnerabilities. These alerts can then be investigated through the Wazuh dashboard.
+
+## Pros
+
+- Completely free and open source
+- Built specifically for security monitoring
+- Includes built-in detection rules
+- Supports Windows, Linux, and macOS
+- Excellent choice for home labs and learning environments
+
+## Cons
+
+- Smaller ecosystem than Splunk
+- Less common in large enterprise environments
+- Dashboards are less advanced
+- Fewer enterprise-level features
+- Can require more manual troubleshooting
